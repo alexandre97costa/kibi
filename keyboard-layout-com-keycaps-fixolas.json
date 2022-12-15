@@ -1,0 +1,141 @@
+[
+  {
+    "name": "kibi",
+    "author": "Alexandre Costa",
+    "switchMount": "cherry",
+    "switchBrand": "outemu",
+    "switchType": "PG150B01",
+    "plate": true,
+    "pcb": true,
+    "css": "@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');\n\n* { \n    font-family: 'Montserrat', sans-serif; \n    text-transform: uppercase;\n}"
+  },
+  [
+    {
+      "c": "#4d4d4d",
+      "t": "#e0bd00",
+      "p": "DCS R1",
+      "a": 7
+    },
+    "Esc",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "0",
+    "?",
+    "«",
+    "DLT",
+    "BCK"
+  ],
+  [
+    {
+      "p": "DCS R2",
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "a": 4
+    },
+    "\n[\n\n\n\n\n\n\n\n{",
+    "\n]\n\n\n\n\n\n\n\n}",
+    {
+      "w": 1.5
+    },
+    "\n\\\n\n\n\n\n\n\n\n|"
+  ],
+  [
+    {
+      "p": "DCS R3",
+      "a": 7,
+      "w": 1.75
+    },
+    "Caps Lock",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "a": 4
+    },
+    "\n;\n\n\n\n\n\n\n\n:",
+    "\n'\n\n\n\n\n\n\n\n\"",
+    {
+      "a": 7,
+      "w": 2.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "p": "DCS R4",
+      "w": 2.25
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 4
+    },
+    "\n,\n\n\n\n\n\n\n\n<",
+    "\n.\n\n\n\n\n\n\n\n>",
+    {
+      "a": 7,
+      "w": 1.75
+    },
+    "Shift",
+    "",
+    "FUNC"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "p": "DCS SPACE",
+      "w": 6.25
+    },
+    "",
+    {
+      "p": "DCS R4"
+    },
+    "Alt",
+    "Ctrl",
+    "",
+    "",
+    ""
+  ]
+]
